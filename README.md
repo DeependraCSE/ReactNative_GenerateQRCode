@@ -4,11 +4,11 @@ This is a new [**React Native**](https://reactnative.dev) project.
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
-## Step 1: Start Metro
+## Step 1: Project Setup
 
 First, you will need to install node dependency for React Native.
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+To install dependency run the following command from the root of your React Native project:
 
 ```sh
 # Using npm
